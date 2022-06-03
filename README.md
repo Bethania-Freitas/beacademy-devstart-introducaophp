@@ -34,6 +34,16 @@ Repositório para envio dos exercícios de php realizados pelo professor Alessan
 [FUNCÕES](https://github.com/Bethania-Freitas/beacademy-devstart-introducaophp/tree/main/modulo01/funcoes)
 
 
+## Screenshots
+
+
+![EXERCICIO TABELA](https://github.com/Bethania-Freitas/beacademy-devstart-introducaophp/blob/main/modulo01/imagens/1.png)
+
+![EXERCICIO TABELA](https://github.com/Bethania-Freitas/beacademy-devstart-introducaophp/blob/main/modulo01/imagens/2.png)
+
+
+
+
 ## Autores
 
 - [Bethânia Freitas 🧡](https://www.github.com/Bethania-Freitas)
