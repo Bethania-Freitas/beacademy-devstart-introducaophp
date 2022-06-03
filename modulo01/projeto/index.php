@@ -19,17 +19,19 @@
         <table class="table table-hover table-striped mt-5" >
             <?php
 
-            $url = $_SERVER['REQUEST_URI'];
+            $url = explode('?', $_SERVER['REQUEST_URI']);
             
             include 'telas/menu.php';
             include 'acoes.php';
 
-            match ($url) {
+            match ($url[0]) {
                 '/' => home(),
                 '/cadastro' => cadastro(),
                 '/login' => login(),
                 '/listar' => listar(),
                 '/relatorio' => relatorio(),
+                '/excluir' => excluir(),
+                '/editar' => editar(),
                 default => admin(),
             }
 

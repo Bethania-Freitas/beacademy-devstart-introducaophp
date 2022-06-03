@@ -18,12 +18,11 @@
 
 <form action="" method="post">
 
-    <input type="text" placeholder="Digite seu Nome" required>
+    <input name='nome' type="text" placeholder="Digite seu Nome" required>
     
-    <input type="text" placeholder="Digite seu Email" required>
+    <input name='email' type="text" placeholder="Digite seu Email" required>
     
-    <input type="tel" placeholder="Digite seu Telefone"
-        pattern="[0-9]{2}-[0-9]{5}-[0-9]{4}"
+    <input name= 'telefone' type="tel" placeholder="Digite seu Telefone"
         required>
         
     <br>
