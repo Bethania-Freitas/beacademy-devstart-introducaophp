@@ -1,0 +1,3 @@
+Estrutura Sequencial
+Estrutra de decisão
+Estrutura de controle
